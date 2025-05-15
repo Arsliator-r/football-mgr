@@ -1,0 +1,2 @@
+C:/Users/Arsalan/Desktop/flutter_projects/football_mgr/android/app/.cxx/Debug/2g4j1o1l/x86/CMakeFiles/edit_cache.dir
+C:/Users/Arsalan/Desktop/flutter_projects/football_mgr/android/app/.cxx/Debug/2g4j1o1l/x86/CMakeFiles/rebuild_cache.dir
