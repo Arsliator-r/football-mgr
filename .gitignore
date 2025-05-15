@@ -30,6 +30,16 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+build/
+.dart_tool/
+.packages
+.pub/
+*.lock
+.idea/
+android/local.properties
+
+model/*.pkl
+
 
 # Symbolication related
 app.*.symbols
